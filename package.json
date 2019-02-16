@@ -1,0 +1,8 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Typescript Parcel Example Project",
+  "main": "index.js",
+  "author": "freddiemixell <fmixell@gmail.com>",
+  "license": "MIT"
+}
